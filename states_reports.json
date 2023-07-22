@@ -1,0 +1,142 @@
+[
+    {
+        "state": "AC",
+        "no_concils": "22",
+        "total_ballots": "2124"
+    },
+    {
+        "state": "AL",
+        "no_concils": "102",
+        "total_ballots": "6626"
+    },
+    {
+        "state": "AP",
+        "no_concils": "16",
+        "total_ballots": "1740"
+    },
+    {
+        "state": "AM",
+        "no_concils": "62",
+        "total_ballots": "7454"
+    },
+    {
+        "state": "BA",
+        "no_concils": "417",
+        "total_ballots": "34424"
+    },
+    {
+        "state": "CE",
+        "no_concils": "184",
+        "total_ballots": "22796"
+    },
+    {
+        "state": "DF",
+        "no_concils": "1",
+        "total_ballots": "6748"
+    },
+    {
+        "state": "ES",
+        "no_concils": "78",
+        "total_ballots": "9239"
+    },
+    {
+        "state": "GO",
+        "no_concils": "246",
+        "total_ballots": "14620"
+    },
+    {
+        "state": "MA",
+        "no_concils": "217",
+        "total_ballots": "16423"
+    },
+    {
+        "state": "MS",
+        "no_concils": "79",
+        "total_ballots": "6912"
+    },
+    {
+        "state": "MT",
+        "no_concils": "141",
+        "total_ballots": "7652"
+    },
+    {
+        "state": "MG",
+        "no_concils": "853",
+        "total_ballots": "49981"
+    },
+    {
+        "state": "PA",
+        "no_concils": "144",
+        "total_ballots": "18235"
+    },
+    {
+        "state": "PB",
+        "no_concils": "223",
+        "total_ballots": "9602"
+    },
+    {
+        "state": "PR",
+        "no_concils": "399",
+        "total_ballots": "25721"
+    },
+    {
+        "state": "PE",
+        "no_concils": "185",
+        "total_ballots": "20572"
+    },
+    {
+        "state": "PI",
+        "no_concils": "224",
+        "total_ballots": "8963"
+    },
+    {
+        "state": "RJ",
+        "no_concils": "92",
+        "total_ballots": "34068"
+    },
+    {
+        "state": "RS",
+        "no_concils": "497",
+        "total_ballots": "27201"
+    },
+    {
+        "state": "RN",
+        "no_concils": "167",
+        "total_ballots": "7674"
+    },
+    {
+        "state": "RO",
+        "no_concils": "52",
+        "total_ballots": "4198"
+    },
+    {
+        "state": "RR",
+        "no_concils": "15",
+        "total_ballots": "1268"
+    },
+    {
+        "state": "SC",
+        "no_concils": "295",
+        "total_ballots": "16242"
+    },
+    {
+        "state": "SP",
+        "no_concils": "645",
+        "total_ballots": "101073"
+    },
+    {
+        "state": "SE",
+        "no_concils": "75",
+        "total_ballots": "5498"
+    },
+    {
+        "state": "TO",
+        "no_concils": "139",
+        "total_ballots": "3957"
+    },
+    {
+        "state": "ZZ",
+        "no_concils": "181",
+        "total_ballots": "1064"
+    }
+]
